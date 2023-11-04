@@ -7,6 +7,11 @@ int main()
 
  return 0;
 }
-//code them dong 1
+
+<<<<<<< HEAD
 //cập nhật bien1
+=======
+//code them dong 1
+
 //code them dong 2
+>>>>>>> nhanh1
