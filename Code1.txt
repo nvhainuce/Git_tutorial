@@ -1,8 +1,11 @@
 #include <iostream>
 using namespace std;
 
+const int bien1=5;
 int main()
 {
 
  return 0;
 }
+
+//cập nhật bien1
