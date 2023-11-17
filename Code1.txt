@@ -1,12 +1,14 @@
 #include <iostream>
 using namespace std;
 
+const int bien1=5;
 int main()
 {
 
  return 0;
 }
 
-//code them dong 1
 
+//cập nhật bien1
 //code them dong 2
+//code them dong 1
