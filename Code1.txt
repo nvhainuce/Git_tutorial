@@ -9,3 +9,8 @@ int main()
 }
 
 //cập nhật bien1
+
+
+//code them dong 1
+
+//code them dong 2
