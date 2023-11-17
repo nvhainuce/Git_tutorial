@@ -8,4 +8,7 @@ int main()
  return 0;
 }
 
+
 //cập nhật bien1
+//code them dong 2
+//code them dong 1
